@@ -5,7 +5,7 @@ juego basico en python utilizando pygame  para prueba de Kodland online digital 
 ##link del repositorio
 
 ```
-https://github.com/cesarcha25/juego-cesar
+https://github.com/cesarcha25/juego-juan
 
 ```
 ##OBJETIVO
